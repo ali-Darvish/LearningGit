@@ -12,4 +12,8 @@ public class PostService {
   public void AddPost(Post post){
     _postRepository.Add(post);
   }
+  
+  public Post GetPost(Guid id){
+    return new Post();
+  }
 }
