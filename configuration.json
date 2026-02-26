@@ -1,5 +1,6 @@
 {
   "Username": "ali.darvish",
   "mobileNumber": "09123456789",
-  "password": "ali123"
+  "password": "ali123",
+  "grantType": "password"
 }
