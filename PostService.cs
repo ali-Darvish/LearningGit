@@ -20,4 +20,8 @@ public class PostService {
   public List<Post> GetPost(){
    return new List<Post>();
   }
+
+  public void DeletePost(){
+    throw new NotImplementedException();
+  }
 }
