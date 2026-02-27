@@ -16,4 +16,8 @@ public class PostService {
   public Post GetPost(Guid id){
     return new Post();
   }
+
+  public List<Post> GetPost(){
+   return new List<Post>();
+  }
 }
